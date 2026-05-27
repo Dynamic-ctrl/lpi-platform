@@ -1,8 +1,7 @@
 import json
 
-from pydantic import ValidationError
-
 from models import GoalCreate, SignalCreate, SmilePhase
+from pydantic import ValidationError
 
 
 def test_proxy_ingestion(filepath: str):
