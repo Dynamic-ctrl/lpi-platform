@@ -47,5 +47,61 @@
     "goals": ["Solve Real-World Problems", "Senior Tech Lead"],
     "interests": ["Agent frameworks", "Data pipelines", "Spatial computing"],
     "skills": ["python", "ml", "react", "node", "unity", "ar/vr", "docker"]
+  },
+  {
+    "id": "aadyant_sood",
+    "name": "Aadyant Sood",
+    "goals": ["Become a top-tier Full Stack Web Developer", "Build complete, end-to-end solutions"],
+    "interests": ["frontend development", "full stack development", "ui ux design"],
+    "skills": ["python", "html", "css", "javascript", "react basics", "git"]
+  },
+  {
+    "id": "ananyaa_m",
+    "name": "Ananyaa M",
+    "goals": ["Architect AI ecosystems", "Allow ML models to live and scale in the cloud"],
+    "interests": ["AI agents", "automation", "mcp development"],
+    "skills": ["C++", "python", "AI & ML", "deep learning", "computer vision"]
+  },
+  {
+    "id": "devika_hooda",
+    "name": "Devika Hooda",
+    "goals": ["Become highly skilled in building AI-driven, scalable backend systems", "Lead teams to build impactful AI products"],
+    "interests": ["AI agents", "web development", "health tech"],
+    "skills": ["html", "css", "javascript", "react", "nodejs", "express", "python"]
+  },
+  {
+    "id": "khushi_garg",
+    "name": "Khushi Garg",
+    "goals": ["Grow into someone comfortable with new technologies for practical use", "Support and guide others to grow along the way"],
+    "interests": ["Artificial Intelligence & Machine Learning", "AI-based Real-world Applications", "Data Science"],
+    "skills": ["Java", "Python", "C", "C++ (Basic)", "SQL", "NumPy", "Pandas", "TensorFlow"]
+  },
+  {
+    "id": "sania_gurung",
+    "name": "Sania Gurung",
+    "goals": ["Become a Machine Learning Engineer", "Build engines that drive technological shifts"],
+    "interests": ["agents", "NLP", "AI-pipelines"],
+    "skills": ["python", "machine-learning", "tensorflow", "computer-vision"]
+  },
+  {
+    "id": "sanskriti",
+    "name": "Sanskriti",
+    "goals": ["Master human-AI interaction design", "Deeply understand how AI should feel to the person using it"],
+    "interests": ["AI agents", "NLP", "Data Science", "data analystics", "problem solving", "case studies"],
+    "skills": ["python", "ML", "SQL", "GitHub", "Streamlit", "Flask"]
+  },
+  {
+    "id": "srishti_gusain",
+    "name": "Srishti Gusain",
+    "goals": ["Develop tech in a sustainable way", "Ensure development does not come at the cost of our future"],
+    "interests": ["Sustainable AI", "NLP", "Machine Learning", "DeepNeural Networks"],
+    "skills": ["python", "pytorch", "react", "node.js", "numpy", "MySQL", "mongodb"]
+  },
+  {
+    "id": "priyanshu_bhardwaj",
+    "name": "Priyanshu Bhardwaj",
+    "goals": ["Become a strong AI engineer specializing in digital twins", "Use real-time data and machine learning for real world problems"],
+    "interests": ["agents", "NLP", "3D", "AR VR", "Game Design"],
+    "skills": ["python", "C#", "Unreal", "Unity"]
   }
 ]
