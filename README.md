@@ -1073,4 +1073,4 @@ lpi-platform/
 ---
 **Updated by TEAM LPI**
 
-*LPI Platform — Winniio Amity 2026 Internship · Demo Day: June 26, 2026*
+*LPI Platform — Winniio Amity 2026 Internship · Demo Day: July 03, 2026*
